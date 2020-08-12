@@ -10,7 +10,8 @@ Y para ello requiero realizar el ejercicio de ejecución de aspectos de una form
 
 El punto principal de la AOP es la separación de las funcionalidades dentro de un sistema y debemos considerar:
 
-* Por un lado tenemos las funcionalidades comunes utilizadas a lo largo del sistema y por otro lado, las funcionalidades propias de cada modelo.
+* Tenemos las funcionalidades comunes utilizadas a lo largo del sistema. 
+* Las funcionalidades propias de cada modelo.
 
 ## Ejercicios
 
