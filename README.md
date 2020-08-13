@@ -35,3 +35,5 @@ En ambos ejercicios se puede generar un jar ejecutable con dependencias.
 * [Understanding AOP and AspectJ](https://livebook.manning.com/book/aspectj-in-action-second-edition/part-1)  
 * [Introduction to Pointcut Expressions in Spring](https://www.baeldung.com/spring-aop-pointcut-tutorial)  
 * [Programación Orientada a Aspectos](http://www.exa.unicen.edu.ar/catedras/deaspect/aspectj.pdf)
+* [Join Points and Pointcuts](https://www.eclipse.org/aspectj/doc/next/progguide/language-joinPoints.html)
+* [Spring AOP AspectJ Annotation Example](https://www.javatpoint.com/spring-aop-aspectj-annotation-example)
