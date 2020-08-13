@@ -2,6 +2,7 @@
 <aspectj>
     <aspects>
         <aspect name="me.isortegah.labs.aspects.FooAspect"/>
+        <aspect name="me.isortegah.labs.aspects.MainAspect"/>
     </aspects>
     <!--<weaver options="-showWeaveInfo -debug -verbose"/>-->
 </aspectj>

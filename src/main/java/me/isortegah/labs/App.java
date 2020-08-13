@@ -15,5 +15,7 @@ public class App
     {
         logger.log(Level.INFO, "Inicia proceso");
         new Foo().foo();
+        new Foo().bar();
+        new Foo().dao();
     }
 }
