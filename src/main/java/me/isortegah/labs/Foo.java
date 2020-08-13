@@ -11,6 +11,15 @@ public class Foo {
     }
 
     public void foo(){
-        logger.log(Level.INFO, "Proceso Foo");
+        logger.log(Level.INFO, "Process method foo");
+    }
+
+    public String bar() {
+        logger.log(Level.INFO, "Process method bar");
+        return "return bar";
+    }
+
+    public void dao(){
+        logger.log(Level.INFO, "Process method dao");
     }
 }

@@ -5,15 +5,11 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
-{
-    public AppTest(){}
-    /**
-     * Rigorous Test :-)
-     */
+public class AppTest {
+
     @Test
-    public void shouldAnswerWithTrue()
-    {
-        new Foo().foo();
+    public void testMain(){
+        String [] args = {};
+        App.main(args);
     }
 }
